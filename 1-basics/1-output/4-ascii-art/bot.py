@@ -1,0 +1,11 @@
+# Display a box
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print("  | |  *tock*")
+print("  | |     *tock*")
+print("  | <-*)")
+print("  | |(()")
+print("  | |\"/")
+print("  | |'")
