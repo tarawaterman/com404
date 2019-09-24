@@ -1,0 +1,5 @@
+print("Hello, I'm Beep! What's your name?")
+name = input()
+print("Hi", name, "how old are you?")
+age = int(input())
+print("Wow! I'm ", 1000-age, " years older than you!")
