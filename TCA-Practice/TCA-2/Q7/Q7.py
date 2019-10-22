@@ -21,6 +21,6 @@ elif (option == 4):
         grid = grid + 1
         print(("*" * len(word) + " ") * grid_size )
         print((word + "|") * grid_size)
-        print(("*" * len(word) + " ") * grid_size)
+    print(("*" * len(word) + " ") * grid_size)
 else:
     print("Invalid option.")
